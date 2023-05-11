@@ -1,0 +1,6 @@
+.env
+__pycache__
+.vscode
+env_chatgptapi_playground
+whisper
+share_btn.py
